@@ -1,0 +1,23 @@
+{
+  "name": "bases-node",
+  "version": "2.0.0",
+  "description": "Esta es una aplicacion de línea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagobianeck/bases-node.git"
+  },
+  "author": "Bianeck TH <thiagobianeck@gmail.com> (https://beatech.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagobianeck/bases-node/issues"
+  },
+  "homepage": "https://github.com/thiagobianeck/bases-node#readme",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {}
+}
